@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "WEBHOOK_URL": "",
+    "UP_PRIMARY_TOKEN": "",
+    "UP_PRIMARY_WEBHOOK": "",
+    "UP_SECONDARY_TOKEN": "",
+    "UP_SECONDARY_WEBHOOK": "",
+    "YNAB_TOKEN": "",
+    "YNAB_BUDGET": ""
+  }
+}
